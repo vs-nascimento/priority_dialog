@@ -1,6 +1,7 @@
 name: priority_dialog
 description: A Flutter package to manage dialogs with priorities and customizations.
 version: 1.0.0
+repository: https://github.com/vs-nascimento/priority_dialog
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
